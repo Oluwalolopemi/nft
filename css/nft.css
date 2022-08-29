@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+.nft-start{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(217, 54%, 11%);
+    min-height: 100vh;
+}
+
+.card-nft{
+    background: hsl(216, 50%, 16%);
+    width: 22%;
+    border-radius: 16px;
+    height: 65%;
+    padding: 16px;
+}
+
+.equi{
+    margin-bottom: 24px;
+}
+
+#no{
+    margin-bottom: 24px;
+    font-weight: 600;
+}
+
+.light-blue{
+    color: hsl(215, 51%, 70%);
+}
+
+.white{
+    color: hsl(0, 0%, 100%);
+}
+
+#cyan{
+   color: hsl(178, 100%, 50%);
+}
+
+.details{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 24px;
+}
+
+.avatar{
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+    border-top: 2px solid hsl(215, 32%, 27%);
+    padding-top: 16px;
+}
+
+.margin{
+    padding-left: 12px;
+}
+
